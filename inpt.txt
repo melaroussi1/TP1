@@ -15,3 +15,6 @@ bonjour
 les etdiants inpt
 bien
 salut
+bonjour les etdiants
+git
+github
